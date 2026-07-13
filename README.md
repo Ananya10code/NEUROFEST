@@ -555,10 +555,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-
-
-GitHub: [github.com/abhi3114-glitch](https://github.com/abhi3114-glitch)
-
----
-
 *NeuroNest — Because every mind deserves the right tools to thrive.*
