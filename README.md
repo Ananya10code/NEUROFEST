@@ -555,9 +555,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Author
 
-**Abhishek**
 
 GitHub: [github.com/abhi3114-glitch](https://github.com/abhi3114-glitch)
 
