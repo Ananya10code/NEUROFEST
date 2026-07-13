@@ -30,7 +30,6 @@ An inclusive, AI-powered care platform engineered to support individuals with ne
 15. [Future Roadmap](#future-roadmap)
 16. [Contributing](#contributing)
 17. [License](#license)
-18. [Author](#author)
 
 ---
 
